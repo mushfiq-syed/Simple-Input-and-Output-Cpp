@@ -1,0 +1,7 @@
+# Compiled executables
+*.exe
+*.o
+*.out
+
+# VS Code settings folder
+.vscode/
